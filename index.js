@@ -1,9 +1,9 @@
 const app = 24;
-const name1 = "Nikhil";
+const name = "Nikhil";
 const dob = "027-07-2025";
 
-function sayName(name1){
-    console.log('My name is '+ name1);
+function sayName(name){
+    console.log('My name is '+ name);
 }
 
 function isAbove18(){
